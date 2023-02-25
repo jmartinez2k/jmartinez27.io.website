@@ -1,15 +1,15 @@
 ---
-title: "RMarkdown Website Tutorial"
+title: "José Martinez Professional Website"
 ---
 
-This is a tutorial for creating a website for free using RMarkdown and Github.
+This is a website featuring all my papers and code used along side the papers for data analysis.
 
 ## This is a header for my webpage
 
 ```{r, out.width="100%", echo=FALSE}
-knitr::include_graphics("GOPR1166.JPG")
+knitr::include_graphics("webhomepic.JPG")
 ```
 
-This a website template for creating personal webpages for academic sciences to publicly share our code and science.
+This a website to see a comprehensive overview of José Martinez's publications and the corresponding data analysis done through RStudio. You can also directly contact me either by email or Twitter.
 
 [Read more about me...](about.html)

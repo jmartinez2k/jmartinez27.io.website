@@ -1,7 +1,7 @@
-name: "Jose Martinez"                                # CHANGE HERE 
+name: "José Martinez"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "Jose Martinez"                             # CHANGE HERE 
+  title: "José A Martinez"                             # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
@@ -16,6 +16,9 @@ navbar:
     - text: "Contact"
       icon: fa-file-pdf-o
       href: contact.html
+    - text: "Projects"
+      icon: fa-projects
+      href: projects.html
   right:
     - text: "Contact me"
       icon: fa-envelope-o

@@ -1,62 +1,28 @@
 ---
-title: "About me"
+title: "My Background"
 ---
 
-This tutorial text and website was developed by [Florian Prive](https://privefl.github.io/). There's also additional information for creating GitHub pages directly from [Github](https://pages.github.com/)
+This website was developed by [José Martinez](https://jmartinez2k.github.io/). There's also additional information for creating GitHub pages directly from [Github](https://pages.github.com/)
 
-# Make your website with R Markdown in minutes (test)
+# Education
 
-This is a template (and tutorial) for creating your website with R Markdown in minutes.
+Attended Texas A&M University from 2018 to 2022 and obtained a degree in Oceanography from the College of Geoscience (which no longer exists). I am currently attending graduate school at University of Puerto Rico at Mayaguez in the department of Marine Science for a masters thesis degree in chemical oceanography. 
 
-The official document from RStudio can be found [here](http://rmarkdown.rstudio.com/rmarkdown_websites.html).
+I have a passion for the environment but specifically enjoy the ocean and the beach. To able to help and preserve the natural state of the ocean and its coast is my goal as a person not just as an academic. If I wasn't pursuing a degree in marine science or even environmental related degrees I would likely be searching for any way to help these vital ecosystems as a career. To me the preservation of the environment and combating climate change is one of the top issues facing humanity as a species.
 
-## Procedure
+## If you want to make your own website try this 
 
-### Prerequisites
-
-- Make sure that you have the latest versions of R, RStudio and package rmarkdown. I had problems of encoding because of that. 
+- There's additional information for creating GitHub pages directly from [Github](https://pages.github.com/)
 
 - Make sure that you have enabled Git in RStudio. More information can be found [there](https://privefl.github.io/advr38book/good-practices.html#git).
 
 - You need a GitHub account.
 
-### Make the first version of your website
-
-- Fork this repo (top-right) and **rename it to be 'YOURGITHUB.github.io'** (in Settings of your brand new repo, case sensitive).
-
-- Get the link from cloning the repo. Use the green button "Clone" and make sure you use SSH, not HTTPS. Then, go to RStudio, create a New Project > Version Control > Git and copy this link. You have cloned your new repo as an R project.
-
-- Build the website by running `rmarkdown::render_site(encoding = "UTF-8")` or just `Ctrl/Cmd + Shift + B`.
-
-- Commit and push everything from RStudio.
-
-- Go see your new website at https://YOURGITHUB.github.io/index.html.
-
-### Change the content of your website
-
-- Modify `_site.yml`, `index.Rmd`, `about.Rmd`, `cv.Rmd` and `CV.pdf` with your own content. 
-- Build your website again. At any moment, you can preview your website locally, by rendering your site and viewing any of your local html file in your Web Browser. 
-
-- Commit and push everything from RStudio.
-
-- Go see your new website with your own content at https://YOURGITHUB.github.io/.
 
 ### The blog part
 
-For now, the 'Blog' link is giving a 404 page. 
-
-If you want to add a static blog to your webpage, go [there](https://github.com/privefl/jekyll-now-r-template).
-
-## Two examples
-
-You can see for example 
-- [my own website](https://privefl.github.io/),
-
-- [the website of the R user group in Grenoble](https://r-in-grenoble.github.io/).
+If you want to visit my science activist blog, go [there](https://github.com/privefl/jekyll-now-r-template).
 
 ## Conclusion
 
-As a reminder, all credit goes to the geniuses at RStudio (thanks also to [GitHub pages](https://pages.github.com/)). I just made some minor modifications and made a tuto about how to use all this together.
-
-If anything is false or not clear enough, feel free to contact me or open an issue.
-If it is an issue only related with R Markdown, you'll find a better answer posting [there](https://github.com/rstudio/rmarkdown).
+Combating climate change is a vital issue that affects people of any race, socio-economic status, religion, creed, gender or no gender, age, nationality, or any other label because this is a global problem. It us to all of us (as a species) to take accountability for our actions against the planet and other species inhabiting this Earth for the future of humanity to enjoy a healthy and plentiful Earth.
