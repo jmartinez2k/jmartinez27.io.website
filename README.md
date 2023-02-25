@@ -1,4 +1,4 @@
-# Make your website with R Markdown in minutes (test)
+# Make your website with R Markdown in minutes (test_1)
 
 This is a template (and tutorial) for creating your website with R Markdown in minutes.
 
