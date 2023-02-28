@@ -9,15 +9,6 @@ This website was developed by [José Martinez](https://jmartinez2k.github.io/). 
 Attended Texas A&M University from 2018 to 2022 and obtained a degree in Oceanography from the College of Geoscience (which no longer exists). I am currently attending graduate school at University of Puerto Rico at Mayaguez in the department of Marine Science for a masters thesis degree in chemical oceanography. 
 
 
-## If you want to make your own website try this 
-
-- There's additional information for creating GitHub pages directly from [Github](https://pages.github.com/)
-
-- Make sure that you have enabled Git in RStudio. More information can be found [there](https://privefl.github.io/advr38book/good-practices.html#git).
-
-- You need a GitHub account.
-
-
 ### The blog part
 
 If you want to visit my science activist blog, go [there](https://github.com/privefl/jekyll-now-r-template).
@@ -25,3 +16,11 @@ If you want to visit my science activist blog, go [there](https://github.com/pri
 ## Conclusion
 
 Combating climate change is a vital issue that affects people of any race, socio-economic status, religion, creed, gender or no gender, age, nationality, or any other label because this is a global problem. It us to all of us (as a species) to take accountability for our actions against the planet and other species inhabiting this Earth for the future of humanity to enjoy a healthy and plentiful Earth.
+
+## If you want to make your own website try this 
+
+- There's additional information for creating GitHub pages directly from [Github](https://pages.github.com/)
+
+- Make sure that you have enabled Git in RStudio. More information can be found [there](https://privefl.github.io/advr38book/good-practices.html#git).
+
+- You need a GitHub account.

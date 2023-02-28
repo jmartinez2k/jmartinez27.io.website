@@ -18,7 +18,7 @@ navbar:
       href: contact.html
     - text: "Projects"
       icon: fa-projects
-      href: projects.html
+      href: project.html
   right:
     - text: "Contact me"
       icon: fa-envelope-o
