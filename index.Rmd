@@ -4,10 +4,12 @@ title: "José Martinez Professional Website"
 
 This is a website featuring all my papers and code used along side the papers for data analysis.
 
-## This is a header for my webpage
+I have a passion for the environment but specifically enjoy the ocean and the beach. To able to help and preserve the natural state of the ocean and its coast is my goal as a person not just as an academic. If I wasn't pursuing a degree in marine science or even environmental related degrees I would likely be searching for any way to help these vital ecosystems as a career. To me the preservation of the environment and combating climate change is one of the top issues facing humanity as a species.
+
+
 
 ```{r, out.width="100%", echo=FALSE}
-knitr::include_graphics("webhomepic.JPG")
+knitr::include_graphics("webhomepic.jpg")
 ```
 
 This a website to see a comprehensive overview of José Martinez's publications and the corresponding data analysis done through RStudio. You can also directly contact me either by email or Twitter.
