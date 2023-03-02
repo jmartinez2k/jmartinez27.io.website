@@ -6,7 +6,7 @@ I was born in San Juan, Puerto Rico, but moved to Dallas, Texas when I was four 
 
 # Education
 
-Attended Texas A&M University from 2018 to 2022 and obtained a degree in Oceanography from the College of Geoscience (which no longer exists). 
+Attended Texas A&M University from 2018 to 2022 and obtained a degree in Oceanography from the College of Geoscience. 
 
 ```{r, out.width="33%", echo=FALSE}
 knitr::include_graphics("JM_grad.jpg")

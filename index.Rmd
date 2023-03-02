@@ -12,6 +12,6 @@ I have a passion for the environment but specifically enjoy the ocean and the be
 knitr::include_graphics("webhomepic.jpg")
 ```
 
-This a website to see a comprehensive overview of José Martinez's publications and the corresponding data analysis done through RStudio. You can also directly contact me either by email or Twitter.
+This a website to see a comprehensive overview of José Martinez's publications and the corresponding data analysis done through RStudio. You can also directly contact me either by email.
 
 [Read more about me...](about.html)
